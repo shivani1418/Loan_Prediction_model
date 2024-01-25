@@ -1,2 +1,2 @@
-# Loan_Prediction_model
-This model predicts loan status with machine learning using python.
+# Prediction_models
+This folder contains various predictive analysis in machine learning using python.
